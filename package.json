@@ -3,9 +3,14 @@
   "displayName": "Plum Torte",
   "description": "A pink and purple theme inspired by a Firefox theme of the same name.",
   "version": "0.0.1",
-  "icon": "./images/plum.png",
+  "icon": "./images/plumdithered.png",
+  "publisher": "hboline",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hboline/vscode-plum-torte.git"
+  },
   "engines": {
-    "vscode": "^1.84.0"
+    "vscode": "^1.83.1"
   },
   "categories": [
     "Themes"
