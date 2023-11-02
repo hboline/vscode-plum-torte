@@ -2,7 +2,7 @@
   "name": "plum-torte",
   "displayName": "Plum Torte",
   "description": "A pink and purple theme inspired by a Firefox theme of the same name.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "./images/plumdithered.png",
   "publisher": "hboline",
   "repository": {
