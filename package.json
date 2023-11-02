@@ -1,0 +1,22 @@
+{
+  "name": "plum-torte",
+  "displayName": "Plum Torte",
+  "description": "A pink and purple theme inspired by a Firefox theme of the same name.",
+  "version": "0.0.1",
+  "icon": "./images/plum.png",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Plum Torte",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Plum Torte-color-theme.json"
+      }
+    ]
+  }
+}
